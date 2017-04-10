@@ -3,6 +3,7 @@ App that compiles your grocery list based off chosen recipes from your weekly me
 
 ## Goals ##
 
+#### Ingredients
 - [ ] Add an ingredient to a master list
 - [ ] Edit Ingredient
 - [ ] Delete Ingredient
@@ -10,6 +11,7 @@ App that compiles your grocery list based off chosen recipes from your weekly me
   - Eample: Ingredient Thyme is a type of Spice
 - [ ] Edit Ingredient food type/group
 - [ ] Allow an ingredient to have multiple types/groups
+#### Recipes
 - [ ] Add a Recipe
   - recipe qualifies if the following are met:
     - Name
@@ -17,9 +19,11 @@ App that compiles your grocery list based off chosen recipes from your weekly me
     - Duration
 - [ ] Edit Recipe
 - [ ] Delete Recipe
+#### Meals
 - [ ] Add many or one Recipe(s) to make a meal
 - [ ] Edit/Delete Meals
 - [ ] Assign a Meal or Recipe to a day(s) -> the meal plan
+#### Grocery List
 - [ ] Populate a grocery list based off the meal plan, with qty's needed
   - should the list be dynamically updated when there is a change to the meal plan?
 
