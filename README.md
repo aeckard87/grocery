@@ -2,7 +2,7 @@
 App that compiles your grocery list based off chosen recipes from your weekly meal plan
 
 ## Goals ##
----
+
 - [ ] Add an ingredient to a master list
 - [ ] Edit Ingredient
 - [ ] Delete Ingredient
