@@ -1,7 +1,7 @@
 # grocery
 App that compiles your grocery list based off chosen recipes from your weekly meal plan
 
-[![Dependancy Status](https://david-dm.org/aeckard87/grocery.svg)][https://david-dm.org/aeckard87/grocery]
+[![dependencies Status](https://david-dm.org/aeckard87/grocery/status.svg)](https://david-dm.org/aeckard87/grocery)
 
 ## Goals ##
 
