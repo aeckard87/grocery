@@ -15,8 +15,11 @@ App that compiles your grocery list based off chosen recipes from your weekly me
 - [ ] Add a Recipe
   - recipe qualifies if the following are met:
     - Name
-    - Ingredients /qty
-    - Duration
+    - Ingredients /qty (what do you do if the recipe is the ingredient, like an Apple for snack time?
+  - Other fields may be added to a recipe:
+    - Prep/Cook time
+    - Directions
+    - Who's kitchen was this from?
 - [ ] Edit Recipe
 - [ ] Delete Recipe
 #### Meals
